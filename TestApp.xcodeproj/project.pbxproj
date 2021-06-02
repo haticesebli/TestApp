@@ -49,6 +49,7 @@
 		8323E3842667281500B9B815 /* TestAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TestAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8323E3882667281500B9B815 /* TestAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestAppUITests.swift; sourceTree = "<group>"; };
 		8323E38A2667281500B9B815 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8323E3BB2667324100B9B815 /* TestApp.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestApp.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +80,7 @@
 		8323E35A2667281400B9B815 = {
 			isa = PBXGroup;
 			children = (
+				8323E3BB2667324100B9B815 /* TestApp.h */,
 				8323E3652667281400B9B815 /* TestApp */,
 				8323E37C2667281500B9B815 /* TestAppTests */,
 				8323E3872667281500B9B815 /* TestAppUITests */,
