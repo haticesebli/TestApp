@@ -9,6 +9,6 @@ import Foundation
 
 class Log {
     public func print(){
-        print("hatice log event")
+        Swift.print("hatice log event")
     }
 }
